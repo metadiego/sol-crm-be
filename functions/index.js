@@ -1,9 +1,25 @@
 const functions = require("firebase-functions");
 
-// // Create and Deploy Your First Cloud Functions
-// // https://firebase.google.com/docs/functions/write-firebase-functions
-//
-// exports.helloWorld = functions.https.onRequest((request, response) => {
-//   functions.logger.info("Hello logs!", {structuredData: true});
-//   response.send("Hello from Firebase!");
-// });
+// The Firebase Admin SDK to access Firestore.
+const admin = require('firebase-admin');
+admin.initializeApp();
+
+// Take the text parameter passed to this HTTP endpoint and insert it into 
+// Firestore under the path /messages/:documentId/original
+exports.addMessage = functions.https.onCall(async (data, context) => {
+  // Push the new message into Firestore using the Firebase Admin SDK.
+  const writeResult = await admin.firestore().collection('messages').add({original: data.message});
+  // Send back a message that we've successfully written the message
+  return {
+    result: `Message with ID: ${writeResult.id} added.`,
+  };
+});
+
+// Fetch Cloud SQL data for a community.
+exports.fetchCommunityData = functions.https.onCall(async (data, context) => {
+
+  // Send back a message that we've successfully read the data.
+  return {
+    result: `No data fetched`,
+  };
+});
