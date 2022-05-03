@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sol-crm-6cd4d",
+  "private_key_id": "b2f5b8bc194c628d3ab4caf3c2268a10e4563780",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDW9m0+gMJRh1VM\nxHcXC3IrY/OtRB/UlkWb+7eU/Wa3EXdtD5QUc5AkukAPFGv8NCCv9XqTmhFlVqTd\nOKTfD7dffNcIATAvWFdh5qTz/95NeO3fiiLWI4BGlQ2pTyHXrguwkyCJy278EMMG\nIqzO2ohUgAjyytJGhaR9Q4KJiv11nl3xLbt+xzDwh0ajJtEWc+eoptriW9QxO02N\nxleMNCQffkMULqeoXQImTYjwZSZroSKmnI6Vr93Eh2rKe2DRi0W/nlgGvFnBPkd1\nvpGkVYhqgieoXLr13ubI5TjyjC/+3mhwVl0IQ1uUlYIZs5iabw6FEDs2dInCcynC\ngw8fqW3tAgMBAAECggEAQBzmb0Zi7oMRJ2DPbiGdTyC0DGDtp2+cWk4Erpy3dnFw\nr6f+T+05uCKOuZCrNmDrwN9TzFMezh099bcPwXHEDOhEkCAemXhdM5dhal7NlEi1\nlb7y7fBPsX2CQhWWb+f6l5MCGOcCdo6fRCSyas2V7LH1OUjR13PDoBKzC8fXGa1y\no01Fr9yTnKpg15H32iuhDka9Yf3YsXxg83W9vXmBm63KNKylPtJmUjiyw1nH4Toc\n6FUbhzbZXJKpUKcecRpp+ioS2lHF9nY966jc7IZEH/EGfv9iepWVU6bGqInyzMDS\nVW4cfDCCcPdKwVdLEJKC07DbEj/IG9LS/SMDQMCP5wKBgQD0vgNz1YrsTiuLp3KZ\nZn8m5rge4R5tPeNL1VSicgX3weBGGy8cCZ7ALHisq8zOwNiM/RhwjFac8lYNyCwy\ni9VEvFZSyjZhwROiM8webJXblXO9hR0dVbIf+81ZbMMiiBpDBFFXrpefv8TnwKji\nQTT9eg2MU9PaVdBEDDO9zL2VbwKBgQDg2b19dIRDNBamewdYVGiRCI3an16lektG\n/GbfpRweN/Htne4sXcENUxFFOfkN1TRpBZga6kwdrtL7P8SI8kCbsY/le/T0kp1A\njLohye9GLOpW/VdDOxQcDYXAsC3KQr5RH428GfyjeKRQBv0ZZxh0Ws7V2O5pPitM\nVy4Q3secYwKBgBWgQK/Ym7j7w09I0ZCKhQvL8VMRM14VzOLji+H6z1owMIAhYM1K\ncFOs2lDvsV5Hnhr/NkyjqfeeVkpLeNRSlNrJBZu1MI78v55ik1PQ5oELuLlzbLot\n21qGJoQTXz7K5f8r/4AO9mjwShbsaD/t4R/QzCetNJgjYw7QQTYxRENTAoGBALQ+\n2CARn1UgFGgwh5rPT2O0L8Lprr2IY3/sJatyeC/hORb6W0tFfNRpmpab+oKUPwdR\nbLVmzM2er5Kpc6s0R4aHuIqF67+DKHvuU+dyMVVX/CLvw1wpp901Gdt1X7+b8WSm\nnsADNPr2YwGkGJCcjIX5pYTX+YZ0R9FSsaLkc69xAoGAEDIlXxlrq4MVznhFV74O\n42YK4fWRpKlTQU4vhJlzyQkp/bCQAtPehcyaPOBJrfpMxkIL+Df7UOKG5ywFoFH8\n9eqOiv2Bx+Rli4zG9fVfnlxSGlk2WI6EzYxjsbDrC4Ka3G+3qMeLfVp5E1DpFWaz\ndNox2u6PMzRtHHU2NoLFkfo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crm-sql@sol-crm-6cd4d.iam.gserviceaccount.com",
+  "client_id": "111076611111338017788",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crm-sql%40sol-crm-6cd4d.iam.gserviceaccount.com"
+}
